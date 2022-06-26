@@ -13,7 +13,7 @@ html, body {
 }
 
 body {
-    background: url(../imagens/fundo-madeira.jpg) no-repeat top center;
+    background: url(../imagens/fundo01.jpg) no-repeat center center;
     background-size: cover;
     background-attachment: fixed;
     
@@ -22,7 +22,6 @@ body {
 main {
     height: 100vh;
     position: relative;
-   
 }
 
 section#telefone {
