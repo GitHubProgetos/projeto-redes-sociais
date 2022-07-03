@@ -26,10 +26,12 @@ a {
     font-weight: bold;
     text-decoration: none;
     color: white;
-    border-radius: 8px;
+    border-radius: ;
 }
 
 a:hover {
     background-color: lime;
 
 }
+
+
